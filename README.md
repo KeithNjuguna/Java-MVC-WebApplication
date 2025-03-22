@@ -23,4 +23,4 @@
    - Select **Tomcat** and click **Finish**.  
    - Open a browser and go to `http://localhost:8080/your-app-name`.
 
-Remmeber to also create the database and add the appropriate password to mysql database
+Remember to also create the database and add the appropriate password to mysql database
