@@ -1,3 +1,5 @@
+  **Setup** 
+  **note that the image reference in the database is different and also the prices change to ensure it works**
 1. **Open Eclipse**  
    Ensure Eclipse IDE for Enterprise Java Developers is installed.
 
